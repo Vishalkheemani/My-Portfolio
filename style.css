@@ -199,7 +199,7 @@ nav{
     display: flex;
     gap: 20px;
 }
-.featured-text-btn>.blue-btn{
+.featured-text-btn> a .blue-btn{
     background: var(--first-color);
     color: var(--color-white);
 }
